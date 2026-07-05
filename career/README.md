@@ -2,7 +2,16 @@
 
 Personalized CV and LinkedIn resources for VIP Account Manager / CRM / Retention applications.
 
-## Which CV to use
+## Ready-to-send PDFs
+
+| File | Use for |
+|------|---------|
+| **Samuli-Lahtela-CV-VIP-CRM.pdf** | VIP Account Manager, Player Retention, CRM roles |
+| **Samuli-Lahtela-CV-Data-CRM.pdf** | CRM + analytics roles (SQL, Python, Tableau) |
+
+Regenerate anytime: `python3 career/generate-pdfs.py`
+
+## Markdown sources
 
 | File | Best for |
 |------|----------|
