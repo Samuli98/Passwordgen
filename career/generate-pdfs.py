@@ -144,7 +144,7 @@ def build_vip_pdf(path: Path) -> None:
     )
 
     pdf.section("Core Skills")
-    pdf.skill_line("Player & CRM:", "VIP relationship management · Player retention & lifecycle · CRM documentation · Responsible gaming · KYC / compliance escalation · Campaign support")
+    pdf.skill_line("Player & CRM:", "VIP relationship management · Player retention & lifecycle · CRM documentation & follow-ups · Responsible gaming · KYC / compliance escalation · Promotions & campaign support")
     pdf.skill_line("Products:", "Online casino · Live casino · Sportsbook · Bonus & wagering workflows")
     pdf.skill_line("Languages:", "Finnish (native) · English (fluent)")
 
@@ -153,20 +153,22 @@ def build_vip_pdf(path: Path) -> None:
         "Customer Relations — Glitnor, Malta",
         "August 2023 – Present",
         [
-            "Manage day-to-day contact with players across casino and sportsbook, including VIP and high-value accounts; resolve payment, bonus, verification, and account queries end to end.",
-            "Monitor player activity for at-risk behaviour, responsible gaming concerns, and compliance flags; escalate to risk, fraud, and management with clear case context.",
-            "Support retention initiatives through promotions, campaigns, and personalised outreach aligned with CRM workflows.",
-            "Handle VIP-related queries and sensitive account issues in a fast-paced, regulated environment.",
-            "Collaborate with payments, compliance, and product teams on complex cases; maintain accurate records for handovers and VIP continuity.",
+            "Manage day-to-day contact with players across casino and sportsbook, including VIP and high-value accounts, resolving payment, bonus, verification, and account queries end to end.",
+            "Monitor player activity to identify at-risk behaviour, responsible gaming concerns, and compliance flags; escalate to risk, fraud, and management with clear case context.",
+            "Support retention initiatives through promotions, campaigns, and personalised player outreach aligned with CRM workflows.",
+            "Handle VIP-related queries and sensitive account issues, maintaining service quality under pressure in a fast-paced, regulated environment.",
+            "Collaborate with internal teams (payments, compliance, product) to resolve complex cases efficiently and protect player trust and satisfaction.",
+            "Maintain accurate interaction records to support handovers, audits, and continuity of high-value player relationships.",
         ],
     )
     pdf.job(
         "Game Presenter / Help Desk — Evolution, Malta",
         "June 2022 – July 2023",
         [
-            "Hosted live casino games for an international audience with professionalism and adherence to studio standards.",
-            "Built real-time rapport with high-value players; remained alert to complaints and escalation needs.",
-            "Provided help desk support for technical and account queries between presenting sessions.",
+            "Hosted live casino games for an international audience, representing the brand with professionalism and adherence to studio standards.",
+            "Built real-time rapport with high-value players at the table, supporting engagement while remaining alert to complaints and escalation needs.",
+            "Provided help desk support alongside presenting duties, assisting players with technical and account-related queries between sessions.",
+            "Coordinated with studio operations and support teams to resolve issues without disrupting the live player experience.",
         ],
     )
 
@@ -174,7 +176,7 @@ def build_vip_pdf(path: Path) -> None:
     pdf.body_text("Kajaani University of Applied Sciences — 2020 – 2024")
 
     pdf.section("Additional Information")
-    pdf.body_text("Work location: Malta (EU work rights) · Open to remote roles with EU time-zone overlap or relocation")
+    pdf.body_text("Work location: Malta (EU work rights) · Open to fully remote roles with EU time-zone overlap or relocation")
     pdf.body_text("Industry: Regulated iGaming (B2C casino & sportsbook)")
 
     pdf.output(path)
@@ -244,6 +246,7 @@ def build_data_pdf(path: Path) -> None:
 
 def main() -> None:
     outputs = [
+        (DIR / "Samuli-Lahtela-CV.pdf", build_vip_pdf),
         (DIR / "Samuli-Lahtela-CV-VIP-CRM.pdf", build_vip_pdf),
         (DIR / "Samuli-Lahtela-CV-Data-CRM.pdf", build_data_pdf),
     ]

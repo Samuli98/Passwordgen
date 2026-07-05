@@ -6,7 +6,8 @@ Personalized CV and LinkedIn resources for VIP Account Manager / CRM / Retention
 
 | File | Use for |
 |------|---------|
-| **Samuli-Lahtela-CV-VIP-CRM.pdf** | VIP Account Manager, Player Retention, CRM roles |
+| **Samuli-Lahtela-CV.pdf** | Main CV — matches `Samuli-Lahtela-CV.md` (use this for applications) |
+| **Samuli-Lahtela-CV-VIP-CRM.pdf** | Same content as above |
 | **Samuli-Lahtela-CV-Data-CRM.pdf** | CRM + analytics roles (SQL, Python, Tableau) |
 
 Regenerate anytime: `python3 career/generate-pdfs.py`
@@ -26,7 +27,7 @@ Regenerate anytime: `python3 career/generate-pdfs.py`
 
 ## Export to PDF
 
-Open the `.md` file in VS Code / Cursor, use Markdown PDF extension, or paste into Google Docs / Word and export.
+Pre-built PDFs are in this folder. To regenerate: `python3 generate-pdfs.py`
 
 ## Next steps
 
