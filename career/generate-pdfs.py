@@ -127,7 +127,7 @@ def build_vip_pdf(path: Path) -> None:
     pdf.header_block(
         "Samuli Lahtela",
         "Malta, Gzira  |  +358 40 579 5752  |  slahtela98@gmail.com\n"
-        "Open to Remote & Relocation (Thailand, EU, MENA)",
+        "Open to Remote & Relocation",
     )
 
     pdf.section("Professional Summary")
@@ -150,7 +150,7 @@ def build_vip_pdf(path: Path) -> None:
 
     pdf.section("Professional Experience")
     pdf.job(
-        "Senior Customer Agent — Glitnor, Malta",
+        "Customer Relations — Glitnor, Malta",
         "August 2023 – Present",
         [
             "Manage day-to-day contact with players across casino and sportsbook, including VIP and high-value accounts; resolve payment, bonus, verification, and account queries end to end.",
@@ -209,7 +209,7 @@ def build_data_pdf(path: Path) -> None:
 
     pdf.section("Professional Experience")
     pdf.job(
-        "Senior Customer Agent — Glitnor, Malta",
+        "Customer Relations — Glitnor, Malta",
         "August 2023 – Present",
         [
             "Analyse player behaviour and betting patterns to support engagement, retention, and early identification of high-risk accounts.",

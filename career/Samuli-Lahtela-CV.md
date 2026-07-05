@@ -1,7 +1,7 @@
 # Samuli Lahtela
 
 **Malta, Gzira** | +358 40 579 5752 | slahtela98@gmail.com  
-**LinkedIn:** linkedin.com/in/[your-profile] | **Open to:** Remote · Relocation (Thailand, EU, MENA)
+**LinkedIn:** linkedin.com/in/[your-profile] | **Open to:** Remote · Relocation
 
 ---
 
@@ -25,7 +25,7 @@ Fluent in **Finnish and English**, with a track record of calm escalation handli
 
 ## Professional Experience
 
-### Senior Customer Agent — Glitnor, Malta
+### Customer Relations — Glitnor, Malta
 *August 2023 – Present*
 
 - Manage day-to-day contact with players across **casino and sportsbook**, including **VIP and high-value accounts**, resolving payment, bonus, verification, and account queries end to end.
