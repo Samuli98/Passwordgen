@@ -262,27 +262,28 @@ def build_casino_ops_pdf(path: Path) -> None:
     )
     pdf.body_text(
         "Experienced working closely with CRM, VIP, Customer Support, payments, and compliance teams to "
-        "resolve operational issues, support promotion rollouts, and escalate product bugs and improvement "
-        "requests. Background includes live casino operations at Evolution and multi-product player support "
-        "at Glitnor. Fluent in English and Finnish. Seeking a Casino Operations & Product Specialist role in Limassol."
+        "resolve operational issues, review and configure promotions, and escalate product bugs via Jira daily. "
+        "Daily user of Intercom, Jira, and Confluence, with additional Zendesk experience. Background includes "
+        "live casino operations at Evolution and multi-product player support at Glitnor. Fluent in English and "
+        "Finnish. Seeking a Casino Operations & Product Specialist role in Limassol."
     )
 
     pdf.section("Core Skills")
-    pdf.skill_line("Casino Operations:", "Player journey review · Bonus & promotion support · Payment query resolution · Platform issue escalation · Operational process monitoring · Live casino environment")
-    pdf.skill_line("Product & Cross-Team:", "Product bug reporting · Ticketing & case tracking · CRM coordination · VIP & CS collaboration · Feature rollout support · Internal workflow improvement")
-    pdf.skill_line("Tools & Knowledge:", "Online casino platforms · Sportsbook · CRM systems · Ticketing tools · KYC / verification flows · Responsible gaming · English (fluent) · Finnish (native)")
+    pdf.skill_line("Casino Operations:", "Player journey review · Bonus & promotion setup & configuration · Payment query resolution · Platform issue escalation · Live casino environment")
+    pdf.skill_line("Product & Cross-Team:", "Product bug reporting · Jira ticket management · CRM coordination · VIP & CS collaboration · Feature rollout support")
+    pdf.skill_line("Tools:", "Jira (daily) · Intercom (daily) · Confluence · Zendesk · Online casino platforms · Sportsbook · KYC / verification · English (fluent) · Finnish (native)")
 
     pdf.section("Professional Experience")
     pdf.job(
         "Customer Relations — Glitnor, Malta",
         "August 2023 – Present",
         [
-            "Support day-to-day casino and sportsbook operations by managing player queries across the full journey: registration, deposits, bonuses, gameplay, and withdrawals.",
-            "Monitor promotions, bonus configurations, and campaign setups from an operational perspective; flag configuration issues and player-facing friction to relevant teams.",
-            "Identify operational issues affecting the player experience and escalate to payments, compliance, fraud, and product teams with clear documentation.",
-            "Raise and track product requests, bugs, and improvement tickets through internal systems, following cases through to resolution.",
-            "Work closely with CRM, VIP, and Customer Support on product-related player issues, campaign queries, and account escalations.",
-            "Support retention and promotional initiatives by validating player-facing flows and communicating operational feedback after rollouts.",
+            "Support day-to-day casino and sportsbook operations across the full player journey: registration, deposits, bonuses, gameplay, and withdrawals.",
+            "Review, set up, and configure promotions and bonus campaigns; monitor configurations and flag player-facing issues before and after go-live.",
+            "Raise and track product requests, bugs, and improvement tickets in Jira daily; document processes and updates in Confluence.",
+            "Handle player communication and operational queries through Intercom (daily) and Zendesk; coordinate with CRM, VIP, and Customer Support.",
+            "Identify operational issues and escalate to payments, compliance, fraud, and product teams with clear case documentation.",
+            "Validate player-facing flows during promotional rollouts and communicate operational feedback to internal stakeholders.",
         ],
     )
     pdf.job(

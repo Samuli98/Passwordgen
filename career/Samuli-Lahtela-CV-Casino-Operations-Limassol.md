@@ -9,17 +9,17 @@
 
 iGaming professional with **4+ years** across **casino operations**, **player journey support**, and **cross-team product coordination** in Malta's regulated market. Strong hands-on understanding of **registration, deposits, bonuses, gameplay, and withdrawals** from daily frontline operations across casino and sportsbook products.
 
-Experienced working closely with **CRM, VIP, Customer Support, payments, and compliance** teams to resolve operational issues, support promotion rollouts, and escalate product bugs and improvement requests. Background includes **live casino operations** at Evolution and multi-product player support at Glitnor. Fluent in **English and Finnish**. Seeking a **Casino Operations & Product Specialist** role in Limassol.
+Experienced working closely with **CRM, VIP, Customer Support, payments, and compliance** teams to resolve operational issues, **review and configure promotions**, and escalate product bugs via **Jira** daily. Daily user of **Intercom**, **Jira**, and **Confluence**, with additional **Zendesk** experience. Background includes **live casino operations** at Evolution and multi-product player support at Glitnor. Fluent in **English and Finnish**. Seeking a **Casino Operations & Product Specialist** role in Limassol.
 
 ---
 
 ## Core Skills
 
-**Casino Operations** — Player journey review · Bonus & promotion support · Payment query resolution · Platform issue escalation · Operational process monitoring · Live casino environment
+**Casino Operations** — Player journey review · Bonus & promotion setup & configuration · Payment query resolution · Platform issue escalation · Operational process monitoring · Live casino environment
 
-**Product & Cross-Team** — Product bug reporting · Ticketing & case tracking · CRM coordination · VIP & CS collaboration · Feature rollout support · Internal workflow improvement
+**Product & Cross-Team** — Product bug reporting · Jira ticket management · CRM coordination · VIP & CS collaboration · Feature rollout support · Internal workflow improvement
 
-**Tools & Knowledge** — Online casino platforms · Sportsbook · CRM systems · Ticketing tools · KYC / verification flows · Responsible gaming · English (fluent) · Finnish (native)
+**Tools** — **Jira** (daily) · **Intercom** (daily) · **Confluence** · **Zendesk** · Online casino platforms · Sportsbook · KYC / verification flows · English (fluent) · Finnish (native)
 
 ---
 
@@ -29,10 +29,10 @@ Experienced working closely with **CRM, VIP, Customer Support, payments, and com
 *August 2023 – Present*
 
 - Support **day-to-day casino and sportsbook operations** by managing player queries across the full journey: **registration, deposits, bonuses, gameplay, and withdrawals**.
-- **Monitor promotions, bonus configurations, and campaign setups** from an operational perspective; flag configuration issues and player-facing friction to relevant teams.
-- **Identify operational issues** affecting the player experience and escalate to payments, compliance, fraud, and product teams with clear documentation.
-- **Raise and track product requests, bugs, and improvement tickets** through internal systems, following cases through to resolution.
-- Work closely with **CRM, VIP, and Customer Support** on product-related player issues, campaign queries, and account escalations.
+- **Review, set up, and configure promotions and bonus campaigns**, monitoring configurations for accuracy and flagging player-facing issues before and after go-live.
+- **Raise and track product requests, bugs, and improvement tickets in Jira daily**, following cases through to resolution with clear documentation in **Confluence**.
+- Handle player communication and operational queries through **Intercom** (daily) and **Zendesk**, coordinating with CRM, VIP, and Customer Support on product-related matters.
+- **Identify operational issues** affecting the player experience and escalate to payments, compliance, fraud, and product teams.
 - Support **retention and promotional initiatives** by validating player-facing flows and communicating operational feedback after rollouts.
 - Maintain accurate case records to support audits, handovers, and continuity across internal teams.
 
