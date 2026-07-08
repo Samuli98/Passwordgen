@@ -1,7 +1,7 @@
 # Samuli Lahtela
 
 **Malta, Gzira** | +358 40 579 5752 | slahtela98@gmail.com  
-**Open to:** Relocation to Limassol, Cyprus (full-time, office-based)
+**Open to:** Relocation
 
 ---
 
@@ -26,7 +26,7 @@ Daily user of **Jira**, **Intercom**, and **Confluence** (with **Zendesk** exper
 ## Professional Experience
 
 ### Casino Operations & Product Support — Glitnor, Malta
-*Senior Customer Agent | August 2023 – Present*
+*August 2023 – Present*
 
 - Lead **day-to-day casino and sportsbook operations** across the full player journey: registration, deposits, bonuses, gameplay, and withdrawals — across **MGA, SGA, Ontario, and Dutch regulated markets**.
 - **Review, set up, and configure promotions and bonus campaigns**; monitor configurations for accuracy and flag player-facing issues before and after go-live.
@@ -52,6 +52,6 @@ Daily user of **Jira**, **Intercom**, and **Confluence** (with **Zendesk** exper
 
 ## Additional Information
 
-- **Relocation:** Ready to relocate to **Limassol, Cyprus** for a full-time office-based role
+- **Relocation:** Open to relocation
 - **Regulatory exposure:** Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)
 - **Work style:** Organised, detail-oriented, comfortable managing multiple tasks in a fast-paced environment

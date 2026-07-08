@@ -250,7 +250,7 @@ def build_casino_ops_pdf(path: Path) -> None:
     pdf.header_block(
         "Samuli Lahtela",
         "Malta, Gzira  |  +358 40 579 5752  |  slahtela98@gmail.com\n"
-        "Open to Relocation: Limassol, Cyprus (full-time, office-based)",
+        "Open to Relocation",
     )
 
     pdf.section("Professional Summary")
@@ -274,7 +274,7 @@ def build_casino_ops_pdf(path: Path) -> None:
     pdf.section("Professional Experience")
     pdf.job(
         "Casino Operations & Product Support — Glitnor, Malta",
-        "Senior Customer Agent | August 2023 – Present",
+        "August 2023 – Present",
         [
             "Lead day-to-day casino and sportsbook operations across registration, deposits, bonuses, gameplay, and withdrawals across MGA, SGA, Ontario, and Dutch regulated markets.",
             "Review, set up, and configure promotions and bonus campaigns; monitor configurations and flag issues before and after go-live.",
@@ -298,7 +298,7 @@ def build_casino_ops_pdf(path: Path) -> None:
     pdf.body_text("Kajaani University of Applied Sciences — 2020 – 2024")
 
     pdf.section("Additional Information")
-    pdf.body_text("Relocation: Ready to relocate to Limassol, Cyprus for a full-time office-based role")
+    pdf.body_text("Relocation: Open to relocation")
     pdf.body_text("Regulatory exposure: Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)")
     pdf.body_text("Work style: Organised, detail-oriented, comfortable in fast-paced environments")
 
