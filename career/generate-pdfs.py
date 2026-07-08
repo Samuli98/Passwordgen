@@ -274,7 +274,7 @@ def build_casino_ops_pdf(path: Path) -> None:
     pdf.section("Professional Experience")
     pdf.job(
         "Casino Operations & Product Support — Glitnor, Malta",
-        "August 2023 – Present",
+        "Senior Customer Operations | August 2023 – Present",
         [
             "Lead day-to-day casino and sportsbook operations across registration, deposits, bonuses, gameplay, and withdrawals across MGA, SGA, Ontario, and Dutch regulated markets.",
             "Review, set up, and configure promotions and bonus campaigns; monitor configurations and flag issues before and after go-live.",
