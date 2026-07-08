@@ -26,7 +26,7 @@ Daily user of **Jira**, **Intercom**, and **Confluence** (with **Zendesk** exper
 ## Professional Experience
 
 ### Casino Operations & Product Support — Glitnor, Malta
-*August 2023 – Present*
+*Senior Customer Operations | August 2023 – Present*
 
 - Lead **day-to-day casino and sportsbook operations** across the full player journey: registration, deposits, bonuses, gameplay, and withdrawals — across **MGA, SGA, Ontario, and Dutch regulated markets**.
 - **Review, set up, and configure promotions and bonus campaigns**; monitor configurations for accuracy and flag player-facing issues before and after go-live.
