@@ -255,45 +255,42 @@ def build_casino_ops_pdf(path: Path) -> None:
 
     pdf.section("Professional Summary")
     pdf.body_text(
-        "iGaming professional with 4+ years across casino operations, player journey support, and "
-        "cross-team product coordination in Malta's regulated market. Strong hands-on understanding of "
-        "registration, deposits, bonuses, gameplay, and withdrawals from daily frontline operations "
-        "across casino and sportsbook products."
+        "iGaming operations professional with 4+ years across casino operations, promotion configuration, and "
+        "cross-team product support across MGA, SGA (Sweden), Ontario, and Dutch (KSA) regulated markets. "
+        "Strong hands-on understanding of registration, deposits, bonuses, gameplay, and withdrawals across "
+        "casino and sportsbook products."
     )
     pdf.body_text(
-        "Experienced working closely with CRM, VIP, Customer Support, payments, and compliance teams to "
-        "resolve operational issues, review and configure promotions, and escalate product bugs via Jira daily. "
-        "Daily user of Intercom, Jira, and Confluence, with additional Zendesk experience. Background includes "
-        "live casino operations at Evolution and multi-product player support at Glitnor. Fluent in English and "
-        "Finnish. Seeking a Casino Operations & Product Specialist role in Limassol."
+        "Daily user of Jira, Intercom, and Confluence (with Zendesk experience). Experienced reviewing, setting "
+        "up, and configuring promotions, escalating product bugs, and coordinating with CRM, VIP, payments, and "
+        "compliance teams. Background includes live casino operations at Evolution. Fluent in English and Finnish."
     )
 
     pdf.section("Core Skills")
-    pdf.skill_line("Casino Operations:", "Player journey review · Bonus & promotion setup & configuration · Payment query resolution · Platform issue escalation · Live casino environment")
-    pdf.skill_line("Product & Cross-Team:", "Product bug reporting · Jira ticket management · CRM coordination · VIP & CS collaboration · Feature rollout support")
-    pdf.skill_line("Tools:", "Jira (daily) · Intercom (daily) · Confluence · Zendesk · Online casino platforms · Sportsbook · KYC / verification · English (fluent) · Finnish (native)")
+    pdf.skill_line("Casino Operations:", "Promotion setup & configuration · Player journey review · Multi-market regulatory awareness · Payment operations · Live casino")
+    pdf.skill_line("Product & Cross-Team:", "Jira ticket management · Product bug reporting · Feature rollout validation · CRM / VIP / CS coordination · Confluence documentation")
+    pdf.skill_line("Tools & Markets:", "Jira · Intercom · Confluence · Zendesk · MGA · SGA (Sweden) · Ontario · Dutch (KSA) · English (fluent) · Finnish (native)")
 
     pdf.section("Professional Experience")
     pdf.job(
-        "Customer Relations — Glitnor, Malta",
-        "August 2023 – Present",
+        "Casino Operations & Product Support — Glitnor, Malta",
+        "Senior Customer Agent | August 2023 – Present",
         [
-            "Support day-to-day casino and sportsbook operations across the full player journey: registration, deposits, bonuses, gameplay, and withdrawals.",
-            "Review, set up, and configure promotions and bonus campaigns; monitor configurations and flag player-facing issues before and after go-live.",
-            "Raise and track product requests, bugs, and improvement tickets in Jira daily; document processes and updates in Confluence.",
-            "Handle player communication and operational queries through Intercom (daily) and Zendesk; coordinate with CRM, VIP, and Customer Support.",
-            "Identify operational issues and escalate to payments, compliance, fraud, and product teams with clear case documentation.",
-            "Validate player-facing flows during promotional rollouts and communicate operational feedback to internal stakeholders.",
+            "Lead day-to-day casino and sportsbook operations across registration, deposits, bonuses, gameplay, and withdrawals across MGA, SGA, Ontario, and Dutch regulated markets.",
+            "Review, set up, and configure promotions and bonus campaigns; monitor configurations and flag issues before and after go-live.",
+            "Manage product requests, bugs, and improvement tickets in Jira daily; document processes in Confluence.",
+            "Handle operational queries through Intercom (daily) and Zendesk; coordinate with CRM, VIP, and Customer Support.",
+            "Apply market-specific regulatory knowledge (SGA, Ontario, KSA, MGA) for bonuses, RG, verification, and compliance escalations.",
+            "Identify operational issues, escalate to payments, compliance, fraud, and product teams; validate flows during rollouts.",
         ],
     )
     pdf.job(
         "Game Presenter / Help Desk — Evolution, Malta",
         "June 2022 – July 2023",
         [
-            "Supported live casino operations in a regulated studio environment, hosting games for an international player base.",
-            "Provided help desk support for technical and account-related queries, escalating platform and operational issues to studio and support teams.",
-            "Built awareness of player experience pain points during live gameplay, including payment, technical, and product-related issues at the table.",
-            "Coordinated with operations and support teams to resolve issues efficiently without disrupting the live casino experience.",
+            "Supported live casino operations in a regulated studio environment for an international player base.",
+            "Provided help desk support; escalated platform issues to studio and operations teams.",
+            "Identified player experience pain points during live gameplay and coordinated cross-team resolution.",
         ],
     )
 
@@ -302,8 +299,8 @@ def build_casino_ops_pdf(path: Path) -> None:
 
     pdf.section("Additional Information")
     pdf.body_text("Relocation: Ready to relocate to Limassol, Cyprus for a full-time office-based role")
-    pdf.body_text("Experience: 4+ years in regulated iGaming (exceeds 2-3 year requirement)")
-    pdf.body_text("Work style: Organised, detail-oriented, comfortable managing multiple tasks in a fast-paced environment")
+    pdf.body_text("Regulatory exposure: Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)")
+    pdf.body_text("Work style: Organised, detail-oriented, comfortable in fast-paced environments")
 
     pdf.output(path)
 

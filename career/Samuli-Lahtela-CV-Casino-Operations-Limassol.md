@@ -7,42 +7,40 @@
 
 ## Professional Summary
 
-iGaming professional with **4+ years** across **casino operations**, **player journey support**, and **cross-team product coordination** in Malta's regulated market. Strong hands-on understanding of **registration, deposits, bonuses, gameplay, and withdrawals** from daily frontline operations across casino and sportsbook products.
+iGaming operations professional with **4+ years** across **casino operations**, **promotion configuration**, and **cross-team product support** across **MGA, SGA (Sweden), Ontario, and Dutch (KSA)** regulated markets. Strong hands-on understanding of **registration, deposits, bonuses, gameplay, and withdrawals** from daily operations across casino and sportsbook products.
 
-Experienced working closely with **CRM, VIP, Customer Support, payments, and compliance** teams to resolve operational issues, **review and configure promotions**, and escalate product bugs via **Jira** daily. Daily user of **Intercom**, **Jira**, and **Confluence**, with additional **Zendesk** experience. Background includes **live casino operations** at Evolution and multi-product player support at Glitnor. Fluent in **English and Finnish**. Seeking a **Casino Operations & Product Specialist** role in Limassol.
+Daily user of **Jira**, **Intercom**, and **Confluence** (with **Zendesk** experience). Experienced **reviewing, setting up, and configuring promotions**, escalating product bugs, and coordinating with CRM, VIP, payments, and compliance teams. Background includes **live casino operations** at Evolution. Fluent in **English and Finnish**.
 
 ---
 
 ## Core Skills
 
-**Casino Operations** — Player journey review · Bonus & promotion setup & configuration · Payment query resolution · Platform issue escalation · Operational process monitoring · Live casino environment
+**Casino Operations** — Promotion setup & configuration · Player journey review · Multi-market regulatory awareness · Payment operations · Platform issue escalation · Live casino
 
-**Product & Cross-Team** — Product bug reporting · Jira ticket management · CRM coordination · VIP & CS collaboration · Feature rollout support · Internal workflow improvement
+**Product & Cross-Team** — Jira ticket management · Product bug reporting · Feature rollout validation · CRM / VIP / CS coordination · Confluence documentation
 
-**Tools** — **Jira** (daily) · **Intercom** (daily) · **Confluence** · **Zendesk** · Online casino platforms · Sportsbook · KYC / verification flows · English (fluent) · Finnish (native)
+**Tools & Markets** — Jira · Intercom · Confluence · Zendesk · **MGA · SGA (Sweden) · Ontario · Dutch (KSA)** · English (fluent) · Finnish (native)
 
 ---
 
 ## Professional Experience
 
-### Customer Relations — Glitnor, Malta
-*August 2023 – Present*
+### Casino Operations & Product Support — Glitnor, Malta
+*Senior Customer Agent | August 2023 – Present*
 
-- Support **day-to-day casino and sportsbook operations** by managing player queries across the full journey: **registration, deposits, bonuses, gameplay, and withdrawals**.
-- **Review, set up, and configure promotions and bonus campaigns**, monitoring configurations for accuracy and flagging player-facing issues before and after go-live.
-- **Raise and track product requests, bugs, and improvement tickets in Jira daily**, following cases through to resolution with clear documentation in **Confluence**.
-- Handle player communication and operational queries through **Intercom** (daily) and **Zendesk**, coordinating with CRM, VIP, and Customer Support on product-related matters.
-- **Identify operational issues** affecting the player experience and escalate to payments, compliance, fraud, and product teams.
-- Support **retention and promotional initiatives** by validating player-facing flows and communicating operational feedback after rollouts.
-- Maintain accurate case records to support audits, handovers, and continuity across internal teams.
+- Lead **day-to-day casino and sportsbook operations** across the full player journey: registration, deposits, bonuses, gameplay, and withdrawals — across **MGA, SGA, Ontario, and Dutch regulated markets**.
+- **Review, set up, and configure promotions and bonus campaigns**; monitor configurations for accuracy and flag player-facing issues before and after go-live.
+- **Manage product requests, bugs, and improvement tickets in Jira daily**; document processes and operational updates in **Confluence**.
+- Handle operational player queries through **Intercom** (daily) and **Zendesk**; coordinate with CRM, VIP, and Customer Support on product-related matters.
+- Apply **market-specific regulatory knowledge** (SGA, Ontario, KSA, MGA) when supporting bonuses, RG, verification, and compliance escalations.
+- **Identify operational issues**, escalate to payments, compliance, fraud, and product teams, and validate player-facing flows during promotional rollouts.
 
 ### Game Presenter / Help Desk — Evolution, Malta
 *June 2022 – July 2023*
 
-- Supported **live casino operations** in a regulated studio environment, hosting games for an international player base.
-- Provided **help desk support** for technical and account-related queries, escalating platform and operational issues to studio and support teams.
-- Built awareness of **player experience pain points** during live gameplay, including payment, technical, and product-related issues at the table.
-- Coordinated with operations and support teams to resolve issues efficiently without disrupting the live casino experience.
+- Supported **live casino operations** in a regulated studio environment for an international player base.
+- Provided **help desk support** for technical and account queries; escalated platform issues to studio and operations teams.
+- Identified **player experience pain points** during live gameplay and coordinated cross-team resolution under pressure.
 
 ---
 
@@ -55,5 +53,5 @@ Experienced working closely with **CRM, VIP, Customer Support, payments, and com
 ## Additional Information
 
 - **Relocation:** Ready to relocate to **Limassol, Cyprus** for a full-time office-based role
-- **Experience:** 4+ years in regulated iGaming (exceeds 2–3 year requirement)
+- **Regulatory exposure:** Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)
 - **Work style:** Organised, detail-oriented, comfortable managing multiple tasks in a fast-paced environment
