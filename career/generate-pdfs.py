@@ -305,12 +305,73 @@ def build_casino_ops_pdf(path: Path) -> None:
     pdf.output(path)
 
 
+def build_affiliate_pdf(path: Path) -> None:
+    pdf = CVPDF("Samuli Lahtela CV Affiliate Executive")
+    pdf.add_page()
+    pdf.header_block(
+        "Samuli Lahtela",
+        "Malta, Gzira  |  +358 40 579 5752  |  slahtela98@gmail.com\n"
+        "Open to Relocation",
+    )
+
+    pdf.section("Professional Summary")
+    pdf.body_text(
+        "iGaming professional with 4+ years across partner-facing operations, campaign and promotion support, "
+        "and performance-aware player acquisition journeys in regulated markets (MGA, SGA, Ontario, Dutch KSA). "
+        "Experienced coordinating with marketing, CRM, and commercial teams on promotions, exclusive offers, "
+        "and player-facing campaigns, while monitoring conversion-critical flows from registration to first deposit."
+    )
+    pdf.body_text(
+        "Hands-on with Jira, Intercom, Confluence, and Zendesk. Strong communicator in English and Finnish, "
+        "detail-oriented, and comfortable working with data patterns, compliance rules, and multiple stakeholders. "
+        "Seeking an Affiliate Executive role focused on partnership management and high-quality player acquisition."
+    )
+
+    pdf.section("Core Skills")
+    pdf.skill_line("Partnerships & Acquisition:", "Stakeholder relationship management · Campaign & promotion coordination · Player acquisition journey (registration to FTD) · Multi-market acquisition context")
+    pdf.skill_line("Performance & Operations:", "KPI monitoring · Data pattern spotting · Campaign QA & go-live checks · Compliance & responsible gaming · Issue ownership")
+    pdf.skill_line("Tools & Markets:", "Jira · Intercom · Confluence · Zendesk · MGA · SGA (Sweden) · Ontario · Dutch (KSA) · English (fluent) · Finnish (native)")
+
+    pdf.section("Professional Experience")
+    pdf.job(
+        "Senior Customer Operations — Glitnor, Malta",
+        "August 2023 – Present",
+        [
+            "Manage relationships with players and commercial stakeholders across casino and sportsbook; support acquisition journeys: registration, deposits (FTD), bonuses, gameplay, and withdrawals.",
+            "Coordinate promotional campaigns and exclusive offers with CRM and marketing; review, set up, and configure promotions and monitor performance after go-live.",
+            "Spot conversion and quality issues early (bonus misconfiguration, payment blockers) and take ownership via Jira with clear Confluence documentation.",
+            "Work across MGA, SGA, Ontario, and KSA markets ensuring campaigns and flows comply with market rules and responsible gaming requirements.",
+            "Analyse campaign-related signals daily - conversion drop-offs, traffic quality indicators, bonus abuse patterns - and recommend improvements.",
+            "Communicate clearly with CRM, VIP, payments, compliance, and product; use Intercom (daily) and Zendesk for structured communication.",
+        ],
+    )
+    pdf.job(
+        "Game Presenter / Help Desk — Evolution, Malta",
+        "June 2022 – July 2023",
+        [
+            "Represented the brand in live casino operations for an international audience; identified player experience issues affecting acquisition quality.",
+            "Supported help desk escalations and coordinated with operations under pressure in a regulated environment.",
+        ],
+    )
+
+    pdf.section("Education")
+    pdf.body_text("Kajaani University of Applied Sciences — 2020 – 2024")
+
+    pdf.section("Additional Information")
+    pdf.body_text("Relocation: Open to relocation")
+    pdf.body_text("Regulatory markets: Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)")
+    pdf.body_text("Learning focus: Affiliate platforms (Cellxpert, Income Access, NetRefer) and CPA / Rev Share / Hybrid models")
+
+    pdf.output(path)
+
+
 def main() -> None:
     outputs = [
         (DIR / "Samuli-Lahtela-CV.pdf", build_vip_pdf),
         (DIR / "Samuli-Lahtela-CV-VIP-CRM.pdf", build_vip_pdf),
         (DIR / "Samuli-Lahtela-CV-Data-CRM.pdf", build_data_pdf),
         (DIR / "Samuli-Lahtela-CV-Casino-Operations-Limassol.pdf", build_casino_ops_pdf),
+        (DIR / "Samuli-Lahtela-CV-Affiliate-Executive.pdf", build_affiliate_pdf),
     ]
     for path, builder in outputs:
         builder(path)
