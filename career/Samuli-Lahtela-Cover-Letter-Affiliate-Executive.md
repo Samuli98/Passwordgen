@@ -1,17 +1,15 @@
 # Cover Letter — Affiliate Executive
 
-**Subject:** Application — Affiliate Executive — Samuli Lahtela
+**Subject:** Affiliate Executive application — Samuli Lahtela
 
 Dear Hiring Manager,
 
-I am writing to apply for the Affiliate Executive position. With over four years in regulated iGaming — including senior customer operations at Glitnor and live casino experience at Evolution — I bring strong partner-facing communication, campaign and promotion coordination, and multi-market acquisition awareness across **MGA, SGA (Sweden), Ontario, and Dutch (KSA)**.
+I’m applying for the Affiliate Executive role. I’ve spent the last 4+ years in iGaming in Malta — currently in Senior Customer Operations at Glitnor, and before that as a Game Presenter / Help Desk at Evolution.
 
-In my current role, I work daily with the player journeys affiliates care about most: registration, first deposits, bonuses, and conversion blockers. I review, configure, and monitor promotional campaigns, coordinate exclusive offers with CRM and marketing stakeholders, and use **Jira, Intercom, and Confluence** to track issues, document processes, and keep campaigns compliant. I notice details early — misconfigured bonuses, friction in deposit flows, market-specific RG rules — and take ownership to fix or escalate them.
+Day to day I work with promotions, player journeys, and campaigns across regulated markets (MGA, SGA, Ontario, and Dutch). I set up and check promos, work with CRM and marketing, and use Jira, Intercom, and Confluence to keep things moving. I’m used to spotting problems early and following them through.
 
-While I have not yet managed affiliate accounts in Cellxpert or Income Access day-to-day, I already operate in the same commercial ecosystem: performance-minded campaign support, regulated-market compliance, stakeholder communication, and KPI-aware problem solving. I understand the basics of how CPA, revenue share, and hybrid models drive acquisition quality, and I am eager to get hands-on with affiliate platforms quickly.
-
-I communicate clearly in English (and Finnish), work comfortably with data and multiple stakeholders, and am open to relocation. I would welcome the chance to discuss how my operations background can translate into strong affiliate partnership management for your team.
+I’m fluent in English and Finnish, open to relocation, and keen to move into affiliate partnerships. Happy to chat if you’d like to know more.
 
 Kind regards,  
-**Samuli Lahtela**  
-+358 40 579 5752 · slahtela98@gmail.com · Malta, Gzira
+Samuli Lahtela  
++358 40 579 5752 · slahtela98@gmail.com
