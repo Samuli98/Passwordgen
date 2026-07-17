@@ -72,7 +72,7 @@ def wrap(title: str, body: str) -> str:
 
 
 AFFILIATE = wrap(
-    "Samuli Lahtela - CV Affiliate Executive",
+    "Samuli Lahtela - CV",
     """
 <div class="header">
   <div class="name">Samuli Lahtela</div>
@@ -81,15 +81,14 @@ AFFILIATE = wrap(
 
 <div class="section">
   <div class="section-title">Professional Summary</div>
-  <p>iGaming professional with <strong>4+ years</strong> across <strong>partner-facing operations</strong>, <strong>campaign and promotion support</strong>, and <strong>performance-aware player acquisition journeys</strong> in regulated markets (<strong>MGA, SGA, Ontario, Dutch KSA</strong>). Experienced coordinating with marketing, CRM, and commercial teams on <strong>promotions, exclusive offers, and player-facing campaigns</strong>, while monitoring conversion-critical flows from registration to first deposit and beyond.</p>
-  <p>Hands-on with <strong>Jira, Intercom, Confluence, and Zendesk</strong>. Strong communicator in <strong>English and Finnish</strong>, detail-oriented, and comfortable working with data patterns, compliance rules, and multiple stakeholders. Seeking an <strong>Affiliate Executive</strong> role where relationship management, campaign optimisation, and regulated-market awareness drive high-quality player acquisition.</p>
+  <p>iGaming professional with 4+ years in casino and sportsbook operations across regulated markets (MGA, SGA, Ontario, Dutch KSA). Experienced with promotions, player journeys, and day-to-day coordination with CRM, marketing, and commercial teams. Used to working in English and Finnish, spotting issues early, and following them through in Jira, Intercom, and Confluence.</p>
 </div>
 
 <div class="section">
   <div class="section-title">Core Skills</div>
-  <div class="skill"><strong>Partnerships &amp; Acquisition:</strong> Stakeholder relationship management · Campaign &amp; promotion coordination · Player acquisition journey (registration → FTD) · Multi-market acquisition context</div>
-  <div class="skill"><strong>Performance &amp; Operations:</strong> KPI monitoring · Data pattern spotting · Campaign QA &amp; go-live checks · Compliance &amp; responsible gaming · Issue ownership</div>
-  <div class="skill"><strong>Tools &amp; Markets:</strong> Jira · Intercom · Confluence · Zendesk · <strong>MGA · SGA (Sweden) · Ontario · Dutch (KSA)</strong> · English (fluent) · Finnish (native)</div>
+  <div class="skill"><strong>Operations:</strong> Promotion setup &amp; configuration · Player journey support · Campaign coordination · Multi-market compliance · Responsible gaming</div>
+  <div class="skill"><strong>Tools:</strong> Jira · Intercom · Confluence · Zendesk</div>
+  <div class="skill"><strong>Markets &amp; Languages:</strong> MGA · SGA (Sweden) · Ontario · Dutch (KSA) · English (fluent) · Finnish (native)</div>
 </div>
 
 <div class="section">
@@ -98,20 +97,21 @@ AFFILIATE = wrap(
     <div class="job-title">Senior Customer Operations — Glitnor, Malta</div>
     <div class="job-meta">August 2023 – Present</div>
     <ul>
-      <li>Manage relationships with players and commercial stakeholders across casino and sportsbook; support acquisition journeys: <strong>registration, deposits (FTD), bonuses, gameplay, and withdrawals</strong>.</li>
-      <li><strong>Coordinate promotional campaigns and exclusive offers</strong> with CRM and marketing; review, set up, and configure promotions and monitor performance after go-live.</li>
-      <li>Spot conversion and quality issues early and take ownership via <strong>Jira</strong> with clear <strong>Confluence</strong> documentation.</li>
-      <li>Work across <strong>MGA, SGA, Ontario, and KSA</strong> markets ensuring campaigns comply with market rules and responsible gaming requirements.</li>
-      <li>Analyse campaign-related signals daily — conversion drop-offs, traffic quality indicators, bonus abuse patterns — and recommend improvements.</li>
-      <li>Communicate with CRM, VIP, payments, compliance, and product; use <strong>Intercom</strong> (daily) and <strong>Zendesk</strong>.</li>
+      <li>Support casino and sportsbook operations across registration, deposits, bonuses, gameplay, and withdrawals.</li>
+      <li>Review, set up, and configure promotions; coordinate campaign launches with CRM and marketing.</li>
+      <li>Work across MGA, SGA, Ontario, and Dutch regulated markets, applying the right market rules and RG requirements.</li>
+      <li>Raise and track issues in Jira daily; document processes in Confluence.</li>
+      <li>Handle player and internal queries through Intercom and Zendesk; work with payments, compliance, VIP, and product when cases need escalation.</li>
+      <li>Flag configuration or player-flow problems early and follow them through to resolution.</li>
     </ul>
   </div>
   <div class="job">
     <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
     <div class="job-meta">June 2022 – July 2023</div>
     <ul>
-      <li>Represented the brand in live casino operations for an international audience; identified player experience issues affecting acquisition quality.</li>
-      <li>Supported help desk escalations and coordinated with operations under pressure in a regulated environment.</li>
+      <li>Hosted live casino games for an international player base in a regulated studio environment.</li>
+      <li>Supported help desk queries and escalated technical or account issues to operations.</li>
+      <li>Worked under pressure with clear communication across studio and support teams.</li>
     </ul>
   </div>
 </div>
@@ -124,9 +124,8 @@ AFFILIATE = wrap(
 <div class="section">
   <div class="section-title">Additional Information</div>
   <ul>
-    <li><strong>Relocation:</strong> Open to relocation</li>
-    <li><strong>Regulatory markets:</strong> Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)</li>
-    <li><strong>Learning focus:</strong> Affiliate platforms (Cellxpert, Income Access, NetRefer) and CPA / Rev Share / Hybrid models</li>
+    <li>Open to relocation</li>
+    <li>Regulatory markets: Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)</li>
   </ul>
 </div>
 """,

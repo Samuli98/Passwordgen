@@ -7,19 +7,17 @@
 
 ## Professional Summary
 
-iGaming professional with **4+ years** across **partner-facing operations**, **campaign and promotion support**, and **performance-aware player acquisition journeys** in regulated markets (**MGA, SGA, Ontario, Dutch KSA**). Experienced coordinating with marketing, CRM, and commercial teams on **promotions, exclusive offers, and player-facing campaigns**, while monitoring conversion-critical flows from registration to first deposit and beyond.
-
-Hands-on with **Jira, Intercom, Confluence, and Zendesk**. Strong communicator in **English and Finnish**, detail-oriented, and comfortable working with data patterns, compliance rules, and multiple stakeholders. Seeking an **Affiliate Executive** role where relationship management, campaign optimisation, and regulated-market awareness drive high-quality player acquisition.
+iGaming professional with 4+ years in casino and sportsbook operations across regulated markets (MGA, SGA, Ontario, Dutch KSA). Experienced with promotions, player journeys, and day-to-day coordination with CRM, marketing, and commercial teams. Used to working in English and Finnish, spotting issues early, and following them through in Jira, Intercom, and Confluence.
 
 ---
 
 ## Core Skills
 
-**Partnerships & Acquisition** — Partner / stakeholder relationship management · Campaign & promotion coordination · Player acquisition journey (registration → FTD) · Creative & offer awareness · Multi-market acquisition context
+**Operations** — Promotion setup & configuration · Player journey support · Campaign coordination · Multi-market compliance · Responsible gaming
 
-**Performance & Operations** — KPI monitoring · Data pattern spotting · Campaign QA & go-live checks · Compliance & responsible gaming · Issue ownership & escalation
+**Tools** — Jira · Intercom · Confluence · Zendesk
 
-**Tools & Markets** — Jira · Intercom · Confluence · Zendesk · **MGA · SGA (Sweden) · Ontario · Dutch (KSA)** · English (fluent) · Finnish (native)
+**Markets & Languages** — MGA · SGA (Sweden) · Ontario · Dutch (KSA) · English (fluent) · Finnish (native)
 
 ---
 
@@ -28,19 +26,19 @@ Hands-on with **Jira, Intercom, Confluence, and Zendesk**. Strong communicator i
 ### Senior Customer Operations — Glitnor, Malta
 *August 2023 – Present*
 
-- Manage day-to-day relationships with players and internal commercial stakeholders across **casino and sportsbook**, supporting acquisition-critical journeys: **registration, deposits (FTD), bonuses, gameplay, and withdrawals**.
-- **Coordinate promotional campaigns and exclusive offers** with CRM and marketing stakeholders; **review, set up, and configure promotions** and monitor performance after go-live.
-- Spot conversion and quality issues early (bonus misconfiguration, tracking friction, payment blockers) and take ownership to fix or escalate via **Jira** with clear documentation in **Confluence**.
-- Work across **multiple regulated markets (MGA, SGA, Ontario, KSA)** ensuring campaigns and player flows comply with market rules and responsible gaming requirements.
-- Analyse player and campaign-related signals daily — traffic quality indicators, conversion drop-offs, bonus abuse patterns — and recommend operational improvements.
-- Communicate clearly with CRM, VIP, payments, compliance, and product teams; use **Intercom** (daily) and **Zendesk** for structured partner/player communication.
+- Support casino and sportsbook operations across registration, deposits, bonuses, gameplay, and withdrawals.
+- Review, set up, and configure promotions; coordinate campaign launches with CRM and marketing.
+- Work across MGA, SGA, Ontario, and Dutch regulated markets, applying the right market rules and RG requirements.
+- Raise and track issues in Jira daily; document processes in Confluence.
+- Handle player and internal queries through Intercom and Zendesk; work with payments, compliance, VIP, and product when cases need escalation.
+- Flag configuration or player-flow problems early and follow them through to resolution.
 
 ### Game Presenter / Help Desk — Evolution, Malta
 *June 2022 – July 2023*
 
-- Represented the brand in live casino operations for an international audience, building rapport and identifying player experience issues that affect acquisition quality.
-- Supported help desk escalations for technical and account issues; coordinated with operations under pressure.
-- Developed strong stakeholder communication and attention to detail in a fast-paced, regulated environment.
+- Hosted live casino games for an international player base in a regulated studio environment.
+- Supported help desk queries and escalated technical or account issues to operations.
+- Worked under pressure with clear communication across studio and support teams.
 
 ---
 
@@ -52,7 +50,5 @@ Hands-on with **Jira, Intercom, Confluence, and Zendesk**. Strong communicator i
 
 ## Additional Information
 
-- **Relocation:** Open to relocation
-- **Regulatory markets:** Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)
-- **Learning readiness:** Eager to get hands-on with affiliate platforms (Cellxpert, Income Access, NetRefer, MyAffiliates, Affilka) and deepen CPA / Rev Share / Hybrid modelling
-- **Work style:** Proactive, detail-oriented, comfortable asking questions and suggesting improvements
+- Open to relocation
+- Regulatory markets: Malta (MGA), Sweden (SGA), Ontario (AGCO), Netherlands (KSA)
