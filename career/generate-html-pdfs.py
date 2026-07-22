@@ -343,6 +343,75 @@ CS_AGENT = wrap(
 """,
 )
 
+BOLT = wrap(
+    "Samuli Lahtela - CV",
+    """
+<div class="header">
+  <div class="name">Samuli Lahtela</div>
+  <div class="contact">Tallinn, Estonia | +358 40 579 5752 | slahtela98@gmail.com<br>Open to Relocation / Tallinn-based roles</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Professional Summary</div>
+  <p>Support and operations professional with 4+ years in high-volume customer-facing environments. Strong understanding of how users get help, describe issues, and move through chat, self-serve, and human-assisted flows. Worked closely with the Customer Support manager on process improvements, tooling feedback, and player journey fixes across regulated markets.</p>
+  <p>Daily user of Intercom, Zendesk, Jira, and Confluence. Used to balancing quality of support with speed and operational efficiency. Fluent in English and Finnish.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Core Skills</div>
+  <div class="skill"><strong>Support experience:</strong> Help &amp; intake flows · Live chat · Case escalation · Self-serve awareness · Player journey mapping · Quality vs efficiency trade-offs</div>
+  <div class="skill"><strong>Cross-team delivery:</strong> Collaboration with CS management · Product / ops feedback loops · Jira tickets &amp; bug reports · Process documentation · Stakeholder updates</div>
+  <div class="skill"><strong>Tools:</strong> Intercom · Zendesk · Jira · Confluence</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Work Experience</div>
+  <div class="job">
+    <div class="job-title">Senior Customer Operations — Glitnor, Malta</div>
+    <div class="job-meta">August 2023 – Present</div>
+    <ul>
+      <li>Work in a high-volume support environment covering registration, payments, bonuses, account access, and withdrawals across multiple markets.</li>
+      <li>Partner closely with the Customer Support manager on day-to-day operations, process gaps, and improvements to how cases are handled and escalated.</li>
+      <li>Map and improve player journeys when something breaks — from how the issue is raised to how it gets routed and resolved.</li>
+      <li>Raise product and tooling feedback in Jira and follow cases through with clear Confluence notes.</li>
+      <li>Use Intercom and Zendesk daily; feed real agent and user pain points back to management and related teams.</li>
+      <li>Balance user experience with operational reality — spotting where clearer routing or self-serve would reduce repeat contacts and cost to serve.</li>
+      <li>Coordinate with payments, compliance, CRM, VIP, and product when support issues need a cross-team fix.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
+    <div class="job-meta">June 2022 – July 2023</div>
+    <ul>
+      <li>Supported live casino users under pressure; handled help desk queries and escalations.</li>
+      <li>Flagged recurring experience issues to operations and support teams.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Courier — DHL, Finland</div>
+    <div class="job-meta">2018 – 2022</div>
+    <ul>
+      <li>Customer-facing delivery role with independent ownership of daily targets and on-the-spot problem solving.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Education</div>
+  <p><strong>Kajaani University of Applied Sciences</strong> — 2020 – 2024</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Additional Information</div>
+  <ul>
+    <li>Based in Tallinn, Estonia</li>
+    <li>Languages: Finnish (native), English (excellent)</li>
+    <li>Markets worked: MGA, SGA (Sweden), Ontario, Dutch (KSA)</li>
+  </ul>
+</div>
+""",
+)
+
 
 def html_to_pdf(html_path: Path, pdf_path: Path) -> None:
     user_data = Path(f"/tmp/chrome-cv-{pdf_path.stem}")
@@ -376,6 +445,7 @@ def main() -> None:
         "Samuli-Lahtela-CV-Casino-Operations-Limassol": CASINO,
         "Samuli-Lahtela-CV": VIP,
         "Samuli-Lahtela-CV-CS-Agent": CS_AGENT,
+        "Samuli-Lahtela-CV-Bolt-Support-Experience": BOLT,
     }
 
     for name, html in files.items():
