@@ -1,55 +1,51 @@
-# Samuli Lahtela
+# Curriculum Vitae
 
-**Tallinn, Estonia** | +358 40 579 5752 | slahtela98@gmail.com  
-**Open to:** Relocation
+## Samuli Lahtela
+
+**Tallinn, Estonia** | +358 40 579 5752 | slahtela98@gmail.com
 
 ---
 
 ## Professional Summary
 
-Customer support specialist with 4+ years in high-volume, regulated environments. Used to owning cases end to end — from first contact through resolution — including payments, account access, KYC, and compliance-related issues. Experienced supporting high-value customers where clear communication, calm ownership, and retention matter.
-
-Worked across live chat and written channels with Intercom, Zendesk, Jira, and Confluence. Comfortable escalating to KYC, risk, and compliance with the right context, while staying the customer’s main point of contact. Fluent in Finnish and English.
+Customer support specialist with 4+ years in high-volume, regulated iGaming. Used to taking ownership of cases from start to finish, including payments, account issues, KYC, and escalations. Experienced with high-value customers and clear communication when things get difficult. Fluent in Finnish and English.
 
 ---
 
 ## Core Skills
 
-**Case ownership** — Cradle-to-grave support · First contact resolution focus · Multi-channel workflow · Clear updates · Internal coordination
+**Customer Service:** Player support, account queries, payments and bonuses, KYC and verification, complaint handling, retention-focused support
 
-**Retention & high-value support** — High-touch service · De-escalation · At-risk customer awareness · Loyalty-focused communication
+**Tools:** Intercom, Zendesk, Jira, Confluence
 
-**Compliance & complexity** — KYC / verification · Responsible gaming · Risk & fraud escalation · Explaining difficult decisions simply
-
-**Tools** — Intercom · Zendesk · Jira · Confluence
+**Work style:** Calm under pressure, owns cases until closed, works well alone and in a team, quick to learn new systems
 
 ---
 
 ## Work Experience
 
-### Senior Customer Operations — Glitnor, Malta
+### Customer Relations — Glitnor, Malta
 *August 2023 – Present*
 
-- Own player enquiries end to end across casino and sportsbook — payments, bonuses, account access, verification, and withdrawals — without passing the buck.
-- Support high-value and VIP players where trust, speed, and clear ownership matter; keep the customer updated until the issue is closed.
-- Work closely with KYC, compliance, risk, and payments teams; escalate with full context while remaining the customer’s single point of contact.
-- Spot at-risk behaviour and friction early; use high-touch service and clear communication to protect retention.
-- De-escalate tense situations with empathy and transparency, including when delivering difficult news around limits, verification, or account restrictions.
-- Raise recurring issues, process gaps, and product bugs to management via Jira; document fixes in Confluence so the team can reuse them.
-- Manage a high volume of cases across live and written channels without dropping quality.
+- Handle player contact across casino and sportsbook and resolve payment, bonus, verification, and account queries from start to finish.
+- Support high-value and VIP players; stay the main contact until the issue is closed.
+- Work with KYC, compliance, risk, and payments teams when cases need escalation.
+- Stay calm with frustrated customers and explain difficult decisions clearly.
+- Flag recurring problems and product issues in Jira; keep clear notes in Confluence.
+- Manage a high volume of cases across chat and email without dropping quality.
 
 ### Game Presenter / Help Desk — Evolution, Malta
 *June 2022 – July 2023*
 
-- Supported international players in a fast, high-pressure live environment.
-- Handled help desk queries and escalations; stayed accountable until issues were resolved with operations.
-- Built strong communication habits under pressure — calm, clear, and professional.
+- Hosted live casino games for international players in a regulated studio.
+- Provided help desk support for technical and account-related queries.
+- Stayed professional under pressure and worked well with studio and support teams.
 
 ### Courier — DHL, Finland
 *2018 – 2022*
 
-- Customer-facing role with daily ownership of delivery targets and on-the-spot problem solving.
-- Worked independently and dealt with frustrated customers face to face when things went wrong.
+- Delivered parcels on scheduled routes; worked independently and met daily targets.
+- Handled customer contact and resolved delivery issues on the spot.
 
 ---
 
@@ -61,14 +57,20 @@ Worked across live chat and written channels with Intercom, Zendesk, Jira, and C
 
 ## Languages
 
-- **Finnish** — Native
-- **English** — Excellent
-- **Swedish** — Understanding okay; speaking and writing limited
+| Language | Understanding | Speaking | Writing |
+|----------|---------------|----------|---------|
+| **Finnish** | E — Mother tongue | E — Mother tongue | E — Mother tongue |
+| **English** | A — Excellent | A — Excellent | A — Excellent |
+| **Swedish** | C — Okay | D — Little | D — Little |
 
 ---
 
-## Additional Information
+## Social Skills
 
-- Based in Tallinn, Estonia · Open to relocation
-- Markets worked: MGA, SGA (Sweden), Ontario, Dutch (KSA)
-- Comfortable learning new CRMs and support tools quickly
+Good at working independently and as part of a team. Comfortable talking to customers and colleagues in different situations. Happy to learn new skills and pick up new tools quickly.
+
+---
+
+## Hobbies
+
+In my free time I go to the gym and take part in sports activities. I try to live a healthy, active lifestyle.
