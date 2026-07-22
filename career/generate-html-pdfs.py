@@ -49,6 +49,17 @@ p { margin-bottom: 6px; text-align: justify; }
 .job-meta { font-style: italic; color: #555; font-size: 9.5pt; margin-bottom: 4px; }
 ul { margin-left: 18px; }
 li { margin-bottom: 3px; }
+.doc-title {
+  font-size: 11pt;
+  font-weight: 600;
+  color: #1e3a5f;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  margin-bottom: 2px;
+}
+table.lang { width: 100%; border-collapse: collapse; font-size: 9.5pt; margin-top: 4px; }
+table.lang th, table.lang td { border: 1px solid #c5d3e0; padding: 4px 8px; text-align: left; }
+table.lang th { background: #f4f7fa; color: #1e3a5f; }
 @media print {
   body { padding: 0; max-width: none; }
 }
@@ -254,6 +265,88 @@ VIP = wrap(
 """,
 )
 
+CS_AGENT = wrap(
+    "Samuli Lahtela - CV CS Agent",
+    """
+<div class="header">
+  <div class="doc-title">Curriculum Vitae</div>
+  <div class="name">Samuli Lahtela</div>
+  <div class="contact">Tallinn, Estonia | +358 40 579 5752 | slahtela98@gmail.com</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Professional Summary</div>
+  <p>Customer service professional with 4+ years of experience in iGaming and customer-facing roles. Experienced in handling player queries across casino and sportsbook, resolving payment, bonus, and account issues, and working with teams in a fast-paced environment. Clear communicator in English and Finnish. Open to relocation.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Core Skills</div>
+  <div class="skill"><strong>Customer Service:</strong> Player support · Account queries · Payments &amp; bonuses · KYC / verification · Responsible gaming · Complaint handling</div>
+  <div class="skill"><strong>Tools:</strong> Intercom · Zendesk · Jira · Confluence</div>
+  <div class="skill"><strong>Work style:</strong> Calm under pressure · Accurate record-keeping · Team collaboration · Quick to learn new systems</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Work Experience</div>
+  <div class="job">
+    <div class="job-title">Customer Relations — Glitnor, Malta</div>
+    <div class="job-meta">August 2023 – Present</div>
+    <ul>
+      <li>Handle day-to-day player contact across casino and sportsbook via chat, email, and other channels.</li>
+      <li>Resolve payment, bonus, verification, and account queries from start to finish.</li>
+      <li>Escalate responsible gaming, risk, and compliance issues when needed.</li>
+      <li>Work with payments, compliance, and internal teams to close cases quickly.</li>
+      <li>Keep clear notes on all player interactions.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
+    <div class="job-meta">June 2022 – July 2023</div>
+    <ul>
+      <li>Hosted live casino games for international players in a regulated studio.</li>
+      <li>Provided help desk support for technical and account-related queries.</li>
+      <li>Stayed professional under pressure and worked well with studio and support teams.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Courier — DHL, Finland</div>
+    <div class="job-meta">2018 – 2022</div>
+    <ul>
+      <li>Delivered parcels on scheduled routes across Finland.</li>
+      <li>Worked independently, managed time well, and met daily delivery targets.</li>
+      <li>Handled customer contact on the doorstep and resolved delivery issues on the spot.</li>
+      <li>Maintained a reliable, organised approach in a physically active role.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Education</div>
+  <p><strong>Kajaani University of Applied Sciences</strong> — 2020 – 2024</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Languages</div>
+  <table class="lang">
+    <tr><th>Language</th><th>Understanding</th><th>Speaking</th><th>Writing</th></tr>
+    <tr><td><strong>Finnish</strong></td><td>E — Mother tongue</td><td>E — Mother tongue</td><td>E — Mother tongue</td></tr>
+    <tr><td><strong>English</strong></td><td>A — Excellent</td><td>A — Excellent</td><td>A — Excellent</td></tr>
+    <tr><td><strong>Swedish</strong></td><td>C — Okay</td><td>D — Little</td><td>D — Little</td></tr>
+  </table>
+</div>
+
+<div class="section">
+  <div class="section-title">Social Skills</div>
+  <p>Good at working independently and as part of a team. Comfortable talking to customers and colleagues in different situations. Happy to learn new skills and pick up new tools quickly.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Hobbies</div>
+  <p>In my free time I go to the gym and take part in sports activities. I try to live a healthy, active lifestyle.</p>
+</div>
+""",
+)
+
 
 def html_to_pdf(html_path: Path, pdf_path: Path) -> None:
     user_data = Path(f"/tmp/chrome-cv-{pdf_path.stem}")
@@ -286,6 +379,7 @@ def main() -> None:
         "Samuli-Lahtela-CV-Affiliate-Executive": AFFILIATE,
         "Samuli-Lahtela-CV-Casino-Operations-Limassol": CASINO,
         "Samuli-Lahtela-CV": VIP,
+        "Samuli-Lahtela-CV-CS-Agent": CS_AGENT,
     }
 
     for name, html in files.items():
