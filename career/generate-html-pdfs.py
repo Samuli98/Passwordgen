@@ -11,44 +11,44 @@ HTML_DIR = DIR / "html"
 ARTIFACTS = Path("/opt/cursor/artifacts")
 
 CSS = """
-@page { size: A4; margin: 12mm 14mm; }
+@page { size: A4; margin: 10mm 12mm; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
   font-family: Calibri, 'Segoe UI', Arial, sans-serif;
-  font-size: 10pt;
-  line-height: 1.35;
+  font-size: 9.5pt;
+  line-height: 1.28;
   color: #1a1a1a;
   max-width: 800px;
   margin: 0 auto;
-  padding: 24px;
+  padding: 16px;
 }
 .header {
   text-align: center;
   border-bottom: 2px solid #1e3a5f;
-  padding-bottom: 8px;
-  margin-bottom: 12px;
+  padding-bottom: 6px;
+  margin-bottom: 8px;
 }
-.name { font-size: 22pt; font-weight: 700; color: #1e3a5f; }
-.contact { font-size: 9.5pt; color: #444; margin-top: 4px; }
-.section { margin-top: 12px; }
+.name { font-size: 20pt; font-weight: 700; color: #1e3a5f; }
+.contact { font-size: 9pt; color: #444; margin-top: 3px; }
+.section { margin-top: 8px; }
 .section-title {
-  font-size: 10.5pt;
+  font-size: 10pt;
   font-weight: 700;
   color: #1e3a5f;
   text-transform: uppercase;
   letter-spacing: 0.6px;
   border-bottom: 1px solid #c5d3e0;
-  padding-bottom: 2px;
-  margin-bottom: 6px;
+  padding-bottom: 1px;
+  margin-bottom: 4px;
 }
-p { margin-bottom: 6px; text-align: justify; }
-.skill { margin-bottom: 3px; }
+p { margin-bottom: 4px; text-align: justify; }
+.skill { margin-bottom: 2px; }
 .skill strong { color: #1e3a5f; }
-.job { margin-bottom: 10px; }
-.job-title { font-weight: 700; font-size: 10.5pt; }
-.job-meta { font-style: italic; color: #555; font-size: 9.5pt; margin-bottom: 4px; }
-ul { margin-left: 18px; }
-li { margin-bottom: 3px; }
+.job { margin-bottom: 6px; }
+.job-title { font-weight: 700; font-size: 10pt; }
+.job-meta { font-style: italic; color: #555; font-size: 9pt; margin-bottom: 2px; }
+ul { margin-left: 16px; }
+li { margin-bottom: 1.5px; }
 .doc-title {
   font-size: 11pt;
   font-weight: 600;
