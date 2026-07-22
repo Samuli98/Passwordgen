@@ -276,7 +276,7 @@ CS_AGENT = wrap(
 
 <div class="section">
   <div class="section-title">Professional Summary</div>
-  <p>Customer service professional with 4+ years of experience in iGaming and customer-facing roles. Experienced in handling player queries across casino and sportsbook, resolving payment, bonus, and account issues, and working with teams in a fast-paced environment. Clear communicator in English and Finnish. Open to relocation.</p>
+  <p>Customer service professional with 4+ years in iGaming and customer-facing roles. Experienced handling player queries, payments, bonuses, and account issues. Clear communicator in English and Finnish.</p>
 </div>
 
 <div class="section">
@@ -292,11 +292,9 @@ CS_AGENT = wrap(
     <div class="job-title">Customer Relations — Glitnor, Malta</div>
     <div class="job-meta">August 2023 – Present</div>
     <ul>
-      <li>Handle day-to-day player contact across casino and sportsbook via chat, email, and other channels.</li>
-      <li>Resolve payment, bonus, verification, and account queries from start to finish.</li>
+      <li>Handle player contact across casino and sportsbook; resolve payment, bonus, verification, and account queries.</li>
       <li>Escalate responsible gaming, risk, and compliance issues when needed.</li>
-      <li>Work with payments, compliance, and internal teams to close cases quickly.</li>
-      <li>Keep clear notes on all player interactions.</li>
+      <li>Work with internal teams to close cases quickly and keep clear notes on interactions.</li>
     </ul>
   </div>
   <div class="job">
@@ -312,10 +310,8 @@ CS_AGENT = wrap(
     <div class="job-title">Courier — DHL, Finland</div>
     <div class="job-meta">2018 – 2022</div>
     <ul>
-      <li>Delivered parcels on scheduled routes across Finland.</li>
-      <li>Worked independently, managed time well, and met daily delivery targets.</li>
-      <li>Handled customer contact on the doorstep and resolved delivery issues on the spot.</li>
-      <li>Maintained a reliable, organised approach in a physically active role.</li>
+      <li>Delivered parcels on scheduled routes; worked independently and met daily targets.</li>
+      <li>Handled customer contact and resolved delivery issues on the spot.</li>
     </ul>
   </div>
 </div>

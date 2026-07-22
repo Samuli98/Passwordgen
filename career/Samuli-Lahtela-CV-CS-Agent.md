@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Customer service professional with 4+ years of experience in iGaming and customer-facing roles. Experienced in handling player queries across casino and sportsbook, resolving payment, bonus, and account issues, and working with teams in a fast-paced environment. Clear communicator in English and Finnish. Open to relocation.
+Customer service professional with 4+ years in iGaming and customer-facing roles. Experienced handling player queries, payments, bonuses, and account issues. Clear communicator in English and Finnish.
 
 ---
 
@@ -27,11 +27,9 @@ Customer service professional with 4+ years of experience in iGaming and custome
 ### Customer Relations — Glitnor, Malta
 *August 2023 – Present*
 
-- Handle day-to-day player contact across casino and sportsbook via chat, email, and other channels.
-- Resolve payment, bonus, verification, and account queries from start to finish.
+- Handle player contact across casino and sportsbook; resolve payment, bonus, verification, and account queries.
 - Escalate responsible gaming, risk, and compliance issues when needed.
-- Work with payments, compliance, and internal teams to close cases quickly.
-- Keep clear notes on all player interactions.
+- Work with internal teams to close cases quickly and keep clear notes on interactions.
 
 ### Game Presenter / Help Desk — Evolution, Malta
 *June 2022 – July 2023*
@@ -43,10 +41,8 @@ Customer service professional with 4+ years of experience in iGaming and custome
 ### Courier — DHL, Finland
 *2018 – 2022*
 
-- Delivered parcels on scheduled routes across Finland.
-- Worked independently, managed time well, and met daily delivery targets.
-- Handled customer contact on the doorstep and resolved delivery issues on the spot.
-- Maintained a reliable, organised approach in a physically active role.
+- Delivered parcels on scheduled routes; worked independently and met daily targets.
+- Handled customer contact and resolved delivery issues on the spot.
 
 ---
 
