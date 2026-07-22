@@ -412,6 +412,84 @@ BOLT = wrap(
 """,
 )
 
+HIGH_VOLUME = wrap(
+    "Samuli Lahtela - CV",
+    """
+<div class="header">
+  <div class="name">Samuli Lahtela</div>
+  <div class="contact">Tallinn, Estonia | +358 40 579 5752 | slahtela98@gmail.com<br>Open to Relocation</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Professional Summary</div>
+  <p>Customer support specialist with 4+ years in high-volume, regulated environments. Used to owning cases end to end — from first contact through resolution — including payments, account access, KYC, and compliance-related issues. Experienced supporting high-value customers where clear communication, calm ownership, and retention matter.</p>
+  <p>Worked across live chat and written channels with Intercom, Zendesk, Jira, and Confluence. Comfortable escalating to KYC, risk, and compliance with the right context, while staying the customer’s main point of contact. Fluent in Finnish and English.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Core Skills</div>
+  <div class="skill"><strong>Case ownership:</strong> Cradle-to-grave support · First contact resolution focus · Multi-channel workflow · Clear updates · Internal coordination</div>
+  <div class="skill"><strong>Retention &amp; high-value support:</strong> High-touch service · De-escalation · At-risk customer awareness · Loyalty-focused communication</div>
+  <div class="skill"><strong>Compliance &amp; complexity:</strong> KYC / verification · Responsible gaming · Risk &amp; fraud escalation · Explaining difficult decisions simply</div>
+  <div class="skill"><strong>Tools:</strong> Intercom · Zendesk · Jira · Confluence</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Work Experience</div>
+  <div class="job">
+    <div class="job-title">Senior Customer Operations — Glitnor, Malta</div>
+    <div class="job-meta">August 2023 – Present</div>
+    <ul>
+      <li>Own player enquiries end to end across casino and sportsbook — payments, bonuses, account access, verification, and withdrawals — without passing the buck.</li>
+      <li>Support high-value and VIP players where trust, speed, and clear ownership matter; keep the customer updated until the issue is closed.</li>
+      <li>Work closely with KYC, compliance, risk, and payments teams; escalate with full context while remaining the customer’s single point of contact.</li>
+      <li>Spot at-risk behaviour and friction early; use high-touch service and clear communication to protect retention.</li>
+      <li>De-escalate tense situations with empathy and transparency, including when delivering difficult news around limits, verification, or account restrictions.</li>
+      <li>Raise recurring issues, process gaps, and product bugs to management via Jira; document fixes in Confluence for the wider team.</li>
+      <li>Manage a high volume of cases across live and written channels without dropping quality.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
+    <div class="job-meta">June 2022 – July 2023</div>
+    <ul>
+      <li>Supported international players in a fast, high-pressure live environment.</li>
+      <li>Handled help desk queries and escalations; stayed accountable until issues were resolved with operations.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Courier — DHL, Finland</div>
+    <div class="job-meta">2018 – 2022</div>
+    <ul>
+      <li>Customer-facing role with daily ownership of targets and on-the-spot problem solving with frustrated customers.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Education</div>
+  <p><strong>Kajaani University of Applied Sciences</strong> — 2020 – 2024</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Languages</div>
+  <ul>
+    <li><strong>Finnish</strong> — Native</li>
+    <li><strong>English</strong> — Excellent</li>
+    <li><strong>Swedish</strong> — Understanding okay; speaking and writing limited</li>
+  </ul>
+</div>
+
+<div class="section">
+  <div class="section-title">Additional Information</div>
+  <ul>
+    <li>Based in Tallinn, Estonia · Open to relocation</li>
+    <li>Markets worked: MGA, SGA (Sweden), Ontario, Dutch (KSA)</li>
+  </ul>
+</div>
+""",
+)
+
 
 def html_to_pdf(html_path: Path, pdf_path: Path) -> None:
     user_data = Path(f"/tmp/chrome-cv-{pdf_path.stem}")
@@ -446,6 +524,7 @@ def main() -> None:
         "Samuli-Lahtela-CV": VIP,
         "Samuli-Lahtela-CV-CS-Agent": CS_AGENT,
         "Samuli-Lahtela-CV-Bolt-Support-Experience": BOLT,
+        "Samuli-Lahtela-CV-High-Volume-Support": HIGH_VOLUME,
     }
 
     for name, html in files.items():
