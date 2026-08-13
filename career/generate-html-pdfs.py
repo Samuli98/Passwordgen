@@ -504,8 +504,7 @@ STREAMER = wrap(
 
 <div class="section">
   <div class="section-title">Professional Summary</div>
-  <p>iGaming professional with 4+ years across live casino presenting and casino operations. Used to working on camera with players, building rapport in real time, and representing a brand in a fast entertainment environment. Experienced coordinating with commercial, CRM, and operations teams on promotions, partner-facing work, and onboarding-style processes.</p>
-  <p>Looking to move into streamer management, where relationship building, clear communication, and casino product knowledge matter every day. Fluent in Finnish and English.</p>
+  <p>iGaming professional with 4+ years across live casino presenting and casino operations. Used to working on camera, building rapport fast, and coordinating with commercial teams on promotions and partner-facing work. Looking to move into streamer management. Fluent in Finnish and English.</p>
 </div>
 
 <div class="section">
@@ -522,23 +521,19 @@ STREAMER = wrap(
     <div class="job-title">Customer Relations — Glitnor, Malta</div>
     <div class="job-meta">August 2023 – Present</div>
     <ul>
-      <li>Work daily with casino and sportsbook products, promotions, and player-facing campaigns.</li>
-      <li>Build and maintain relationships with players and internal commercial stakeholders.</li>
-      <li>Support onboarding-style processes for promotions and campaigns, from setup through go-live and follow-up.</li>
-      <li>Coordinate with CRM, marketing, payments, and compliance when partner or player issues need a clear commercial outcome.</li>
-      <li>Identify potential issues early, raise them in Jira, and follow them through to resolution.</li>
-      <li>Communicate clearly in English and Finnish in a fast, high-volume environment.</li>
+      <li>Work with casino products, promotions, and player-facing campaigns daily.</li>
+      <li>Build relationships with players and commercial stakeholders; support promo onboarding from setup to go-live.</li>
+      <li>Coordinate with CRM, marketing, payments, and compliance when issues need a clear outcome.</li>
+      <li>Raise issues in Jira and follow them through; communicate clearly in English and Finnish.</li>
     </ul>
   </div>
   <div class="job">
     <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
     <div class="job-meta">June 2022 – July 2023</div>
     <ul>
-      <li>Hosted live casino games on camera for an international audience in a regulated studio.</li>
-      <li>Built real-time engagement and rapport with players, including high-value regulars.</li>
-      <li>Represented the brand professionally while keeping energy and entertainment high.</li>
-      <li>Supported help desk queries and coordinated with studio and operations under pressure.</li>
-      <li>Learned how live content, timing, and personality affect player trust and engagement.</li>
+      <li>Hosted live casino games on camera for an international audience.</li>
+      <li>Built rapport with players in real time and represented the brand professionally.</li>
+      <li>Supported help desk queries and worked closely with studio and operations.</li>
     </ul>
   </div>
   <div class="job">
