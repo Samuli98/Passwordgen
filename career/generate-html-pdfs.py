@@ -493,6 +493,79 @@ HIGH_VOLUME = wrap(
 """,
 )
 
+STREAMER = wrap(
+    "Samuli Lahtela - CV",
+    """
+<div class="header">
+  <div class="doc-title">Curriculum Vitae</div>
+  <div class="name">Samuli Lahtela</div>
+  <div class="contact">Malta, Gzira | +358 40 579 5752 | slahtela98@gmail.com<br>Open to Remote / Relocation</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Professional Summary</div>
+  <p>iGaming professional with 4+ years across live casino presenting and casino operations. Used to working on camera with players, building rapport in real time, and representing a brand in a fast entertainment environment. Experienced coordinating with commercial, CRM, and operations teams on promotions, partner-facing work, and onboarding-style processes.</p>
+  <p>Looking to move into streamer management, where relationship building, clear communication, and casino product knowledge matter every day. Fluent in Finnish and English.</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Core Skills</div>
+  <div class="skill"><strong>Creator &amp; partner work:</strong> Relationship building, onboarding support, campaign and promo coordination, clear commercial communication</div>
+  <div class="skill"><strong>iGaming:</strong> Live casino, online casino, sportsbook, bonuses and promotions, player engagement, multi-market regulated gaming</div>
+  <div class="skill"><strong>Tools:</strong> Intercom, Zendesk, Jira, Confluence</div>
+  <div class="skill"><strong>Languages:</strong> Finnish (native), English (excellent)</div>
+</div>
+
+<div class="section">
+  <div class="section-title">Work Experience</div>
+  <div class="job">
+    <div class="job-title">Customer Relations — Glitnor, Malta</div>
+    <div class="job-meta">August 2023 – Present</div>
+    <ul>
+      <li>Work daily with casino and sportsbook products, promotions, and player-facing campaigns.</li>
+      <li>Build and maintain relationships with players and internal commercial stakeholders.</li>
+      <li>Support onboarding-style processes for promotions and campaigns, from setup through go-live and follow-up.</li>
+      <li>Coordinate with CRM, marketing, payments, and compliance when partner or player issues need a clear commercial outcome.</li>
+      <li>Identify potential issues early, raise them in Jira, and follow them through to resolution.</li>
+      <li>Communicate clearly in English and Finnish in a fast, high-volume environment.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Game Presenter / Help Desk — Evolution, Malta</div>
+    <div class="job-meta">June 2022 – July 2023</div>
+    <ul>
+      <li>Hosted live casino games on camera for an international audience in a regulated studio.</li>
+      <li>Built real-time engagement and rapport with players, including high-value regulars.</li>
+      <li>Represented the brand professionally while keeping energy and entertainment high.</li>
+      <li>Supported help desk queries and coordinated with studio and operations under pressure.</li>
+      <li>Learned how live content, timing, and personality affect player trust and engagement.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Courier — DHL, Finland</div>
+    <div class="job-meta">2018 – 2022</div>
+    <ul>
+      <li>Customer-facing role with independent ownership of daily targets and on-the-spot problem solving.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-title">Education</div>
+  <p><strong>Kajaani University of Applied Sciences</strong> — 2020 – 2024</p>
+</div>
+
+<div class="section">
+  <div class="section-title">Additional Information</div>
+  <ul>
+    <li>Based in Malta, open to remote roles or relocation</li>
+    <li>Markets worked: MGA, SGA (Sweden), Ontario, Dutch (KSA)</li>
+    <li>Comfortable learning new partner platforms and commercial tools quickly</li>
+  </ul>
+</div>
+""",
+)
+
 
 def html_to_pdf(html_path: Path, pdf_path: Path) -> None:
     user_data = Path(f"/tmp/chrome-cv-{pdf_path.stem}")
@@ -528,6 +601,7 @@ def main() -> None:
         "Samuli-Lahtela-CV-CS-Agent": CS_AGENT,
         "Samuli-Lahtela-CV-Bolt-Support-Experience": BOLT,
         "Samuli-Lahtela-CV-High-Volume-Support": HIGH_VOLUME,
+        "Samuli-Lahtela-CV-Streamer-Manager": STREAMER,
     }
 
     for name, html in files.items():
